@@ -1,2 +1,8 @@
-# data-visualization-python
- data visualization using python libraries 
+## data-visualization-python
+ Performing:
+ 
+ -data cleaning.
+ 
+ -exploratory data analysis (EDA).
+ 
+ Libraries used for visualizations- matplotlib
